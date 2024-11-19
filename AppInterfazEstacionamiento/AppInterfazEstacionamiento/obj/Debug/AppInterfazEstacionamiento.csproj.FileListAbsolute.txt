@@ -1,0 +1,10 @@
+C:\Users\lizzi\source\repos\AppInterfazEstacionamiento\AppInterfazEstacionamiento\bin\Debug\AppInterfazEstacionamiento.exe.config
+C:\Users\lizzi\source\repos\AppInterfazEstacionamiento\AppInterfazEstacionamiento\bin\Debug\AppInterfazEstacionamiento.exe
+C:\Users\lizzi\source\repos\AppInterfazEstacionamiento\AppInterfazEstacionamiento\bin\Debug\AppInterfazEstacionamiento.pdb
+C:\Users\lizzi\source\repos\AppInterfazEstacionamiento\AppInterfazEstacionamiento\obj\Debug\AppInterfazEstacionamiento.csproj.AssemblyReference.cache
+C:\Users\lizzi\source\repos\AppInterfazEstacionamiento\AppInterfazEstacionamiento\obj\Debug\AppInterfazEstacionamiento.Form1.resources
+C:\Users\lizzi\source\repos\AppInterfazEstacionamiento\AppInterfazEstacionamiento\obj\Debug\AppInterfazEstacionamiento.Properties.Resources.resources
+C:\Users\lizzi\source\repos\AppInterfazEstacionamiento\AppInterfazEstacionamiento\obj\Debug\AppInterfazEstacionamiento.csproj.GenerateResource.cache
+C:\Users\lizzi\source\repos\AppInterfazEstacionamiento\AppInterfazEstacionamiento\obj\Debug\AppInterfazEstacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\lizzi\source\repos\AppInterfazEstacionamiento\AppInterfazEstacionamiento\obj\Debug\AppInterfazEstacionamiento.exe
+C:\Users\lizzi\source\repos\AppInterfazEstacionamiento\AppInterfazEstacionamiento\obj\Debug\AppInterfazEstacionamiento.pdb
